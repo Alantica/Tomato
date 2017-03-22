@@ -1,6 +1,10 @@
+@font-face { font-family: boi; src: url('Melancholight.ttf'); } 
+@font-face { font-family: boi; font-weight: bold; src: url('Melancholight.ttf');}
+
 ehh{
     color: darkblue;
-    font-size: 60;
+    font-size: 120;
+    font-family: boi;
 }
 
 redtom{
